@@ -1,0 +1,1 @@
+https://data-flair.training/blogs/sign-language-recognition-python-ml-opencv/
