@@ -1,8 +1,6 @@
 # Sign Language Recognition
 
-## Team:
-- Adish Pathare
-- Navneet Desai
-- Anubhuti Puppalwar
+# Install Dependencies
+pip install -r requirements.txt
 
 
